@@ -8,7 +8,7 @@ import time
 # customize these functions
 ####################################
 
-class Bo(object):
+class Box(object):
     #Model
     def __init__(self,x,y,color,row,col):
         self.x = x
