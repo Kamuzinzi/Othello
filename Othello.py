@@ -5,7 +5,7 @@ from tkinter import *
 import copy
 import time
 ####################################
-# customize these functions
+# Here is the beginning of the Othello code
 ####################################
 
 class Box(object):
